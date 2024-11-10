@@ -22,7 +22,7 @@ Install dependencies using pip:
 pip install pygame Pillow
 ```
 **Screenshots**:
-`![Music Player - 1](https://raw.githubusercontent.com/Mani-TheDeveloper/Python-Music-Player/refs/heads/main/ScreenShot1.png)`
-`![Music Player - 2](https://raw.githubusercontent.com/Mani-TheDeveloper/Python-Music-Player/refs/heads/main/ScreenShot2.png)`
+![Music Player - 1](https://raw.githubusercontent.com/Mani-TheDeveloper/Python-Music-Player/refs/heads/main/ScreenShot1.png)
+![Music Player - 2](https://raw.githubusercontent.com/Mani-TheDeveloper/Python-Music-Player/refs/heads/main/ScreenShot2.png)
 **Contact Information**: 
 [Vist my LinkedIn](https://www.linkedin.com/in/mani-shankar-amudalapalli/)
